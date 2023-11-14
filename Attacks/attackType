@@ -1,0 +1,5 @@
+package Attacks;
+public interface attackType{
+    public void lightAttack();
+    public void heavyAttack();
+}
